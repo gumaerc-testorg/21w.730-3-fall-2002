@@ -6,6 +6,7 @@ file: /courses/21w-730-3-consumer-culture-fall-2002/150128cd6d295f4151cbfc53ed7c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Portfolios
 uid: 150128cd-6d29-5f41-51cb-fc53ed7cf6cd
 ---
 Instructions for assembling and submitting a portfolio of work for the course.
-

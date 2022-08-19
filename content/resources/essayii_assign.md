@@ -5,6 +5,7 @@ file: /courses/21w-730-3-consumer-culture-fall-2002/912ac68e631b4deab3b601e82ccc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Essay II
 uid: 912ac68e-631b-4dea-b3b6-01e82cccdfd1
 ---
 Assignment to write an essay on an ad or ad campaign.
-
