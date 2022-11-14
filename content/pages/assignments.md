@@ -1,27 +1,29 @@
 ---
 content_type: page
+description: This section provides instructions and guidelines for the course writing
+  assignments.
 learning_resource_types: []
+ocw_type: ''
 title: Assignments
-type: CourseSection
 uid: 20b36af1-1ac4-dcbd-1b49-75529fb02694
 ---
 
 Please note: OCW users are not able to turn in assignments to the instructor or receive a grade for their work.
 
-Portfolio Guidelines ([PDF]({{< baseurl >}}/resources/portfolios))
+Portfolio Guidelines ({{% resource_link 150128cd-6d29-5f41-51cb-fc53ed7cf6cd "PDF" %}})
 ------------------------------------------------------------------
 
 Essays
 ------
 
-*   Essay I ([PDF]({{< baseurl >}}/resources/essayi_assignmnt))
-*   Essay II ([PDF]({{< baseurl >}}/resources/essayii_assign))
-*   Essay III ([PDF]({{< baseurl >}}/resources/essay_iii))
-    *   Research Guidelines ([PDF]({{< baseurl >}}/resources/researchguidelns))
-*   Essay IV ([PDF]({{< baseurl >}}/resources/essay_iv))
-    *   Revising Essay IV ([PDF]({{< baseurl >}}/resources/revising_essay_4))
-    *   Cover sheet for Re- Revised Drafts ([PDF]({{< baseurl >}}/resources/f2_re_reacov_sht))
-    *   Cover sheet for Essay IV Revision ([PDF]({{< baseurl >}}/resources/f02_coveraiv_rev))
+*   Essay I ({{% resource_link d6c33646-5e34-cb56-55b5-db0ad57b2312 "PDF" %}})
+*   Essay II ({{% resource_link 912ac68e-631b-4dea-b3b6-01e82cccdfd1 "PDF" %}})
+*   Essay III ({{% resource_link 94b607cd-2b90-4845-142e-4147ee0b1ac0 "PDF" %}})
+    *   Research Guidelines ({{% resource_link 8ae7b828-7558-1a2d-dccb-f41d488f54bb "PDF" %}})
+*   Essay IV ({{% resource_link a415f730-69cf-06f8-be12-a81631823206 "PDF" %}})
+    *   Revising Essay IV ({{% resource_link 04bd7ef2-1f55-cbf9-7543-542823ba061b "PDF" %}})
+    *   Cover sheet for Re- Revised Drafts ({{% resource_link 40182447-f5ff-7db4-bbd9-db7435628095 "PDF" %}})
+    *   Cover sheet for Essay IV Revision ({{% resource_link 02a2f039-09d9-942f-ff9e-9b80eef9dbcf "PDF" %}})
 
 Homework
 --------

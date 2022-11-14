@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of course themes, in-class activities,
+  and homework assignments.
 learning_resource_types: []
+ocw_type: ''
 title: Calendar
-type: CourseSection
 uid: 99691eac-450e-9ace-75c8-084cb955b360
 ---
 

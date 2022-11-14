@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on meeting times, texts, and course policies.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: f96c050b-4e8a-798e-7628-b5b54fff2d68
 ---
 
@@ -11,7 +13,7 @@ Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-In-class handout syllabus ([PDF]({{< baseurl >}}/resources/fall2002_syllab1))
+In-class handout syllabus ({{% resource_link ddbfc627-8b78-c990-23a4-1041943679ae "PDF" %}})
 
 Introduction
 ------------

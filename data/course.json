@@ -34,7 +34,9 @@
   },
   "course_title": "Consumer Culture",
   "course_description": "What is the good life, and can you shop there? Would you want that life if you couldn't? Has shopping replaced working as the activity that gives the most meaning to our lives? The theme for this Expository Writing class is Consumer Culture. The class will explore what it means to belong to a consumer society\u2014to think of ourselves, as Douglas Rushkoff puts it, less as citizens than as consumers. Readings will serve both as examples of effective writing techniques and as springboards for discussion. We\u2019ll read essays that explore a variety of cultural meanings of shopping and that analyze the way advertising works. We will also read essays that critique consumer culture from several perspectives, including those of psychology, gender, art, environmentalism and ethics. Readings and essay assignments will invite you to reflect on personal, familial and cultural meanings of shopping; to analyze advertisements; and to join in conversation with critics of consumer culture and offer your own critiques.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.730-3",
   "course_image_thumbnail": {
@@ -44,6 +46,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "76cfda94-74f6-4531-becf-728e71895539",
+  "site_uid": "9c569c10-5919-4f4b-a092-781eaeb65608",
+  "short_id": "21w.730-3-fall-2002",
   "title": "Course Metadata"
 }
