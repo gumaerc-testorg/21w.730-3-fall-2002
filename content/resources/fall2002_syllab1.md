@@ -2,7 +2,8 @@
 content_type: resource
 description: This syllabus provides an introduction to the course and information
   on meeting times, texts, the course schedule, and course policies.
-file: /courses/21w-730-3-consumer-culture-fall-2002/ddbfc6278b78c99023a41041943679ae_fall2002_syllab1.pdf
+file: /ol-ocw-studio-app/courses/21w-730-3-consumer-culture-fall-2002/ddbfc6278b78c99023a41041943679ae_fall2002_syllab1.pdf
+file_size: 142521
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

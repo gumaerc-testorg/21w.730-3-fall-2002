@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Essay assignment on consumer culture.
-file: /courses/21w-730-3-consumer-culture-fall-2002/d6c336465e34cb5655b5db0ad57b2312_essayi_assignmnt.pdf
+file: /ol-ocw-studio-app/courses/21w-730-3-consumer-culture-fall-2002/d6c336465e34cb5655b5db0ad57b2312_essayi_assignmnt.pdf
+file_size: 66987
 file_type: application/pdf
 learning_resource_types:
 - Assignments

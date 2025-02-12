@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Assignment to write an essay on an ad or ad campaign.
-file: /courses/21w-730-3-consumer-culture-fall-2002/912ac68e631b4deab3b601e82cccdfd1_essayii_assign.pdf
+file: /ol-ocw-studio-app/courses/21w-730-3-consumer-culture-fall-2002/912ac68e631b4deab3b601e82cccdfd1_essayii_assign.pdf
+file_size: 48768
 file_type: application/pdf
 learning_resource_types:
 - Assignments

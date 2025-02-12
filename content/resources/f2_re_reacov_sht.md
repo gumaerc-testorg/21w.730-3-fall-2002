@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Cover sheet used to submit revised drafts of writing assignments.
-file: /courses/21w-730-3-consumer-culture-fall-2002/40182447f5ff7db4bbd9db7435628095_f2_re_reacov_sht.pdf
+file: /ol-ocw-studio-app/courses/21w-730-3-consumer-culture-fall-2002/40182447f5ff7db4bbd9db7435628095_f2_re_reacov_sht.pdf
+file_size: 41235
 file_type: application/pdf
 learning_resource_types:
 - Assignments

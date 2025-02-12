@@ -2,7 +2,8 @@
 content_type: resource
 description: Instructions for assembling and submitting a portfolio of work for the
   course.
-file: /courses/21w-730-3-consumer-culture-fall-2002/150128cd6d295f4151cbfc53ed7cf6cd_portfolios.pdf
+file: /ol-ocw-studio-app/courses/21w-730-3-consumer-culture-fall-2002/150128cd6d295f4151cbfc53ed7cf6cd_portfolios.pdf
+file_size: 93105
 file_type: application/pdf
 learning_resource_types:
 - Assignments
