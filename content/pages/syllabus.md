@@ -55,7 +55,7 @@ I'll give you evaluative comments on all essay drafts, and √, √+ or √- for
 ### Plagiarism
 
 MIT's academic honesty policy can be found at the following link:  
-[http://policies-procedures.mit.edu/](http://policies-procedures.mit.edu/)
+{{% resource_link "2739640f-63aa-4d90-9a26-0d4c914e2517" "http://policies-procedures.mit.edu/" %}}
 
 **Note:** There are no tests in this class. Instructions re: the portfolio will come later, but remember to keep all your work- don't throw anything away!
 
@@ -63,7 +63,7 @@ MIT's academic honesty policy can be found at the following link:
 
 **Note:** Some of the following links may be restricted to the MIT community and not be available to all OpenCourseWare users.
 
-*   MIT's libraries can be accessed via [http://libraries.mit.edu](http://libraries.mit.edu/).
-*   The _Mayfield Handbook for Technical Writing_, the preferred style guide for MIT students, is available on-line. ([PDF](https://www.idc-online.com/technical_references/pdfs/information_technology/The_Mayfield_Handbook_of_Technical_and_Scientific_Writing.pdf))
-*   The web address of MIT's Writing Center is [http://web.mit.edu/writing](http://web.mit.edu/writing).  
+*   MIT's libraries can be accessed via {{% resource_link "ae57ca6e-e60e-4b5d-8205-11925c7f5b13" "http://libraries.mit.edu" %}}.
+*   The _Mayfield Handbook for Technical Writing_, the preferred style guide for MIT students, is available on-line. ({{% resource_link "edc08929-3177-4f38-8409-50e62cb4218c" "PDF" %}})
+*   The web address of MIT's Writing Center is {{% resource_link "ab3c379c-45e3-46db-a488-4040cecce904" "http://web.mit.edu/writing" %}}.  
     The site gives you info on how to make an appointment for a session with a writing tutor, as well as links to help regarding grammar and research paper format. You will also find a definition of plagiarism at this site.
