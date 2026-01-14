@@ -16,9 +16,9 @@ Brubach, Holly. "Mail-Order America." _New York Times Magazine_ (21 November 199
 
 Cross, Gary. "Irony of the Century." Chap. 1 in _An All-Consuming Century: Why Consmerism Won in America_. New York: Columbia Univerisity Press, 2000.
 
-Gladwell, Malcolm. "Listening to Khakis." _The New Yorker_ (28 July 1997). Available at {{% resource_link "63fad046-6d2d-42a1-b245-d07cec58c01d" "https://www.newyorker.com/magazine/1996/11/04/the-science-of-shopping" %}}
+Gladwell, Malcolm. "Listening to Khakis." _The New Yorker_ (28 July 1997). Available at [https://www.newyorker.com/magazine/1996/11/04/the-science-of-shopping](https://www.newyorker.com/magazine/1996/11/04/the-science-of-shopping)
 
-Gladwell, Malcolm. "The Science of Shopping." _The New Yorker_ (November 4, 1996). Available at {{% resource_link "eff1bdda-6452-412e-aedc-cfcd1f0df075" "http://www.gladwell.com/1996/1996\_11\_04\_a\_shopping.htm" %}}
+Gladwell, Malcolm. "The Science of Shopping." _The New Yorker_ (November 4, 1996). Available at [http://www.gladwell.com/1996/1996\_11\_04\_a\_shopping.htm](http://www.gladwell.com/1996/1996_11_04_a_shopping.htm)
 
 Gopnik, Adam. "The Winter Circus." In _Paris to the Moon_. New York : Random House, 2000.
 

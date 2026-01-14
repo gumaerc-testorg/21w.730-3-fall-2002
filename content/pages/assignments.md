@@ -74,13 +74,13 @@ Titles are not underlined, in quotes, etc.; you may use boldface if you like. Yo
 ### Homework Assignment #5
 
 1.  WRITE: A 1-page position paper in which you state what you believe about your relationship to the attempts of marketers to manipulate you: where and how are you manipulated? Where and how are you free?
-2.  READ: Go to writer {{% resource_link "bd5f463b-bb06-499c-9157-12773ba2be8a" "Malcom Gladwell's web page" %}} and follow the links to his November 4, 1996 article, "The Science of Shopping." Gladwell writes on science and business topics for the _New Yorker_. Print out the article for easier reading and marking up. Read it, and remember to bring it to class.
+2.  READ: Go to writer [Malcom Gladwell's web page](https://www.ted.com/speakers/malcolm_gladwell) and follow the links to his November 4, 1996 article, "The Science of Shopping." Gladwell writes on science and business topics for the _New Yorker_. Print out the article for easier reading and marking up. Read it, and remember to bring it to class.
 3.  REVISE Essay I.
 4.  BRING to class an ad or ads you'd like to work with for Essay II.
 
 ### Homework Assignment #6
 
-1.  READ "They Say," which is the Introduction to Douglas Rushkoff's book Coercion. Rushkoff is a writer, consultant, and lecturer who specializes in topics relating to the ways the internet is changing society. \[Xeroxed handout\] Also READ Malcolm Gladwell's _New Yorker_ article on how advertisers appeal to men, "Listening to Khakis." It's available {{% resource_link "a131d5eb-ba42-4713-a979-afcc4928c16b" "at his website" %}}.
+1.  READ "They Say," which is the Introduction to Douglas Rushkoff's book Coercion. Rushkoff is a writer, consultant, and lecturer who specializes in topics relating to the ways the internet is changing society. \[Xeroxed handout\] Also READ Malcolm Gladwell's _New Yorker_ article on how advertisers appeal to men, "Listening to Khakis." It's available [at his website](http://www.gladwell.com/).
 2.  WRITE: After reading these two essays, copy a passage from one that relates to the statement you wrote about manipulation and freedom. Continue your discussion of the issues in light of this passage.
 
 Please include the first draft with your revision!
